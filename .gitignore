@@ -1,0 +1,11 @@
+# Bỏ qua thư mục biên dịch của Verilator
+**/obj_dir/
+
+//# Bỏ qua các file sóng mô phỏng
+//*.vcd
+
+# Bỏ qua các file tạm của Quartus / ModelSim
+//*.log
+//*.jou
+//db/
+//incremental_db/
